@@ -1,0 +1,13 @@
+C:\Users\karay\Desktop\Kamp1\MetotDemo\bin\Debug\netcoreapp3.1\MetotDemo.exe
+C:\Users\karay\Desktop\Kamp1\MetotDemo\bin\Debug\netcoreapp3.1\MetotDemo.deps.json
+C:\Users\karay\Desktop\Kamp1\MetotDemo\bin\Debug\netcoreapp3.1\MetotDemo.runtimeconfig.json
+C:\Users\karay\Desktop\Kamp1\MetotDemo\bin\Debug\netcoreapp3.1\MetotDemo.runtimeconfig.dev.json
+C:\Users\karay\Desktop\Kamp1\MetotDemo\bin\Debug\netcoreapp3.1\MetotDemo.dll
+C:\Users\karay\Desktop\Kamp1\MetotDemo\bin\Debug\netcoreapp3.1\MetotDemo.pdb
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.csprojAssemblyReference.cache
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.AssemblyInfoInputs.cache
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.AssemblyInfo.cs
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.dll
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.pdb
+C:\Users\karay\Desktop\Kamp1\MetotDemo\obj\Debug\netcoreapp3.1\MetotDemo.genruntimeconfig.cache
